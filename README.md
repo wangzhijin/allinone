@@ -4,10 +4,10 @@ metamask経由して、ethコインを転送するウェブサイト
 ブロックチェーンを勉強するために、簡単なものを作ろうと思いました。  
 html/js/smartcontactだけで動けます。  
 # 開発環境：  
-　Windows7  
-　chrome  
-　metamask  
-  Geth  
+・Windows7  
+・chrome  
+・metamask  
+・Geth  
 ※metamaskインストールはChrome拡張機能でmetamaskを検索してインストール  
 ※Gethインストールは下記リンクをご参照  
 [geth インストールと設定（1/2）┃スマートコントラクト開発環境構築](https://it-developer.info/blockchain/development-environment-1/) 
