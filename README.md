@@ -17,7 +17,7 @@ html/js/smartcontactだけで動けます。
 ①Geth起動  
 ②allinone.htmlをchromeで開く  
 ③[browser-solidity](https://ethereum.github.io/browser-solidity)でallinone\assets\allinone.solの内容をdeploy  
-  ⇒RUNタブ  
+  deploy方法：RUNタブを選択、下記のように設定して、実行する  
   ・Environment：Web3 Provider  
   ・Account：①で作ったmainウォレット  
   ・Createボタンで実行  
