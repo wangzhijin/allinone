@@ -10,7 +10,7 @@ html/js/smartcontactだけで動けます。
 ・Geth  
 ※metamaskインストールはChrome拡張機能でmetamaskを検索してインストール  
 ※Gethインストールは下記リンクをご参照  
-[geth インストールと設定（1/2）┃スマートコントラクト開発環境構築](https://it-developer.info/blockchain/development-environment-1/) 
+[geth インストールと設定（1/2）┃スマートコントラクト開発環境構築](https://it-developer.info/blockchain/development-environment-1/)   
 [geth マイニングと送金（2/2）┃スマートコントラクト開発環境構築](https://it-developer.info/blockchain/development-environment-2/)  
   
 # ローカル検証方法： 
