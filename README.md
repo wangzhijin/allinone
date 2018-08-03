@@ -28,11 +28,11 @@ html/js/smartcontactだけで動けます。
 ⑥eth転送結果を確認  
 
 # metamaskウォレット検証方法： 
-※file:///D:/blockchain/allinone/allinone.htmlの形式でmetamaskウォレットが動けません。(サッポトされてない)
-①簡易サーバを構築する
-　・PHP簡易サーバでGoogleして、簡易サーバを構築する
-　・allinone.htmlをallinone.phpに変更
-②Metamaskの接続先NetworkにCustom RPC を選択し、URLに”http://127.0.0.1:9545”を設定する
-③簡易サーバ起動して、allinone.phpをアクセス
-④画面に0.001 ETH ～ 100 ETHを入力して、購入ボタンをクリック 
-　ここはMetamaskの画面がポップアップされるはず。そうではなければ、何か設定が間違ったかもしれない、ご連絡ください
+※file:///D:/blockchain/allinone/allinone.htmlの形式でmetamaskウォレットが動けません。(サッポトされてない)  
+①簡易サーバを構築する  
+　・PHP簡易サーバでGoogleして、簡易サーバを構築する  
+　・allinone.htmlをallinone.phpに変更  
+②Metamaskの接続先NetworkにCustom RPC を選択し、URLに”http://127.0.0.1:9545”を設定する  
+③簡易サーバ起動して、allinone.phpをアクセス  
+④画面に0.001 ETH ～ 100 ETHを入力して、購入ボタンをクリック  
+　ここはMetamaskの画面がポップアップされるはず。そうではなければ、何か設定が間違ったかもしれない、ご連絡ください  
