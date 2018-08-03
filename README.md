@@ -28,7 +28,8 @@ html/js/smartcontactだけで動けます。
 ⑥eth転送結果を確認  
 
 # metamaskウォレット検証方法： 
-※file:///D:/blockchain/allinone/allinone.htmlの形式でmetamaskウォレットが動けません。(サッポトされてない)  
+※file:///D:/blockchain/allinone/allinone.htmlの形式でmetamaskウォレットが動けません。(サッポトされてない) 
+ですので、metamaskウォレットで検証するため、サーバを構築しないといけない  
 ①簡易サーバを構築する  
 　・PHP簡易サーバでGoogleして、簡易サーバを構築する  
 　・allinone.htmlをallinone.phpに変更  
