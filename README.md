@@ -26,7 +26,8 @@ html/js/smartcontactだけで動けます。
   ・75行目：Contract.at('0x28a283fc02af6050f7e9c2d025850f3f7bb5296f');  
 ⑤画面に0.001 ETH ～ 100 ETHを入力して、購入ボタンをクリック  
 ⑥eth転送結果を確認  
-
+※↑検証済
+※↓未検証
 # metamaskウォレット検証方法： 
 ※file:///D:/blockchain/allinone/allinone.htmlの形式でmetamaskウォレットが動けません。(サッポトされてない) 
 ですので、metamaskウォレットで検証するため、サーバを構築しないといけない  
